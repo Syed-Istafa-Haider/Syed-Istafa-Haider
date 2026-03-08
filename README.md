@@ -2,9 +2,9 @@
 
 🚀 About Me
 
-Full-Stack Developer specializing in  Python
-Passionate about building scalable web applications
-Love combining creativity with functionality in every project
+Full-Stack Developer specializing in  Python 
+Passionate about building scalable web applications 
+Love combining creativity with functionality in every project 
 
 💻 My Tech Stack
 
